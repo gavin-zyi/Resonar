@@ -1,0 +1,10 @@
+L:\Unity\Resonar\Temp\bin\Debug\UnityVS.Resonar.CSharp.Plugins.dll
+L:\Unity\Resonar\Temp\bin\Debug\UnityVS.Resonar.CSharp.Plugins.pdb
+L:\Unity\Resonar\Temp\bin\Debug\UnityEditor.dll
+L:\Unity\Resonar\Temp\bin\Debug\UnityEngine.dll
+L:\Unity\Resonar\Temp\bin\Debug\Mono.Cecil.dll
+L:\Unity\Resonar\Temp\bin\Debug\nunit.framework.dll
+L:\Unity\Resonar\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+L:\Unity\Resonar\obj\Debug\UnityVS.Resonar.CSharp.Plugins.csprojResolveAssemblyReference.cache
+L:\Unity\Resonar\obj\Debug\UnityVS.Resonar.CSharp.Plugins.dll
+L:\Unity\Resonar\obj\Debug\UnityVS.Resonar.CSharp.Plugins.pdb

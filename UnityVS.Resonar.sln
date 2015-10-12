@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.Resonar.UnityScript.Plugins", "UnityVS.Resonar.UnityScript.Plugins.unityproj", "{82A99993-ED48-4F90-8F64-F78C786F7D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Resonar.CSharp", "UnityVS.Resonar.CSharp.csproj", "{2F51F5E5-E7DE-4AE9-EC1A-C63442C9BB75}"
+EndProject
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.Resonar.UnityScript", "UnityVS.Resonar.UnityScript.unityproj", "{E300BC85-E50A-1EDE-E0EB-D5A2A7756CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Resonar.CSharp.Plugins", "UnityVS.Resonar.CSharp.Plugins.csproj", "{4AA5D925-1178-5891-95A7-15272DC16318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A99993-ED48-4F90-8F64-F78C786F7D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A99993-ED48-4F90-8F64-F78C786F7D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A99993-ED48-4F90-8F64-F78C786F7D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A99993-ED48-4F90-8F64-F78C786F7D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F51F5E5-E7DE-4AE9-EC1A-C63442C9BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F51F5E5-E7DE-4AE9-EC1A-C63442C9BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F51F5E5-E7DE-4AE9-EC1A-C63442C9BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F51F5E5-E7DE-4AE9-EC1A-C63442C9BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E300BC85-E50A-1EDE-E0EB-D5A2A7756CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E300BC85-E50A-1EDE-E0EB-D5A2A7756CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E300BC85-E50A-1EDE-E0EB-D5A2A7756CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E300BC85-E50A-1EDE-E0EB-D5A2A7756CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA5D925-1178-5891-95A7-15272DC16318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA5D925-1178-5891-95A7-15272DC16318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA5D925-1178-5891-95A7-15272DC16318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA5D925-1178-5891-95A7-15272DC16318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
